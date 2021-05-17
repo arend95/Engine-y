@@ -30,6 +30,8 @@ public:
     void Rotatex(float angle);
     void Rotatey(float angle);
     void Rotatez(float angle);
+    
+    // TODO: add reflection operators
 
 };
 
